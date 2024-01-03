@@ -64,7 +64,7 @@ DEFAULT_CONFIG = {
         "animtime": "https://animtime.com/",
         "crunchyroll": "http://www.crunchyroll.com/",
         "kawaiifu": "https://kawaiifu.com/",
-        "gogoanime": "https://anitaku.to/",
+        "gogoanime": "https://gogoanime3.net/",
         "haho": "https://haho.moe/",
         "hentaistream": "https://hstream.moe/",
         "kamyroll_api": "https://kamyroll.herokuapp.com/",

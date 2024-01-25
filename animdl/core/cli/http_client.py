@@ -17,6 +17,7 @@ client = httpx.Client(
 utils.http_client.integrate_ddg_bypassing(
     client,
     ".marin.moe",
+    ".animepahe.ru",
 )
 
 utils.http_client.setup_global_http_exception_hook(
